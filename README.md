@@ -12,7 +12,7 @@ I also have a great curiosity and interest in machine learning and artificial in
 Currently, i am dedicated to develoment a small blog app [blog-to-learn](https://github.com/faamaral/blog-to-learning) using **Flask Framawork**🧪 in order to share what i learn in college subjects with other people, and engaged to learn cross-plataform development with **Flutter** 💙.
 
 <div>
-  <a href="github.com/faamaral">
+  <a href="https://github.com/faamaral" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=faamaral&show_icons=true&theme=midnight-purple" alt="Fabiano's Github Stats" height="180em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faamaral&layout=compact&langs_count=8&theme=midnight-purple" alt="Top Langs" height="180em">
 </div>
