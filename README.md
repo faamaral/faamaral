@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-amaral-alves-2165b5188)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/virtualfabs/)
 
-![](https://komarev.com/ghpvc/?username=faamaral&color=green)
+<!-- ![](https://komarev.com/ghpvc/?username=faamaral&color=green) -->
 
 I'm studying bachelor's degree in information systems in **Federal Institute of Education, Science and Technology of the Northern Minas Gerais (IFNMG)** 👨‍🎓.
 
