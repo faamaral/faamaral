@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-amaral-alves-2165b5188)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/virtualfabs/)
 
-<!-- ![](https://komarev.com/ghpvc/?username=faamaral&color=green) -->
+![](https://komarev.com/ghpvc/?username=faamaral&color=purple)
 
 I'm studying bachelor's degree in information systems in **Federal Institute of Education, Science and Technology of the Northern Minas Gerais (IFNMG)** 👨‍🎓.
 
@@ -11,7 +11,7 @@ My first contact with programming language was in 2015, but i decided to take ot
 Only in 2018 when i joined in college, emerged in me the passion for programming. Since then, i've been trying more and more about the whole programming and develoment ecosystems.
 I also have a great curiosity and interest in machine learning and artificial intelligence applications.
 
-Currently, i am dedicated to develoment a small blog app [blog-to-learn](https://github.com/faamaral/blog-to-learning) using **Flask Framawork**🧪 in order to share what i learn in college subjects with other people, and engaged to learn cross-plataform development with **Flutter** 💙.
+Currently, i am dedicated to develoment a small blog app named [techster](https://github.com/faamaral/techster) using **Flask Framawork**🧪 in order to share what i learn in college subjects with other people, and engaged to learn cross-plataform development with **Flutter** 💙.
 
 <div>
   <a href="https://github.com/faamaral" target="_blank">
@@ -38,5 +38,3 @@ Currently, i am dedicated to develoment a small blog app [blog-to-learn](https:/
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" align="center">
   <!--<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" align="center">-->
 </div>
-  
-#### to be continued...
