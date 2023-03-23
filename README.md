@@ -1,9 +1,8 @@
 ### Hey, I'm Fabiano Amaral Alves ✌
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-amaral-alves-2165b5188)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/virtualfabs/)
-
 ![](https://komarev.com/ghpvc/?username=faamaral&color=blue)
+
+#### 🚀 About Me
 
 I'm studying bachelor's degree in information systems in **Federal Institute of Education, Science and Technology of the Northern Minas Gerais (IFNMG)** 👨‍🎓.
 
@@ -13,6 +12,12 @@ I also have a great curiosity and interest in machine learning and artificial in
 
 Currently, i am dedicated to develoment a small blog app named [techster](https://github.com/faamaral/techster) using **Flask Framawork**🧪 in order to share what i learn in college subjects with other people, and engaged to learn cross-plataform development with **Flutter** 💙.
 
+#### 📫 How to reach me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-amaral-alves-2165b5188)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/virtualfabs/)
+
+#### 📊 Github Stats and Top Languages
 <div>
   <a href="https://github.com/faamaral" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=faamaral&show_icons=true&theme=midnight-purple" alt="Fabiano's Github Stats" height="180em">
@@ -24,7 +29,7 @@ Currently, i am dedicated to develoment a small blog app named [techster](https:
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=faamaral&repo=focus-fitness&theme=monokai" alt="Fabiano's Github Stats" height="120em">
  </div> -->
 
-#### The technologies I use in my day-to-day life
+#### 🔧 Technologies & Tools
 
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" align="center">
@@ -38,3 +43,13 @@ Currently, i am dedicated to develoment a small blog app named [techster](https:
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" align="center">
   <!--<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" align="center">-->
 </div>
+  
+#### 🌟 My Skills
+ ![Problem-solving](https://img.shields.io/badge/Problem--solving-blue?style=flat-square)
+![Collaboration](https://img.shields.io/badge/Collaboration-green?style=flat-square)
+![Adaptability](https://img.shields.io/badge/Adaptability-yellow?style=flat-square)
+![Team Work](https://img.shields.io/badge/Team%20Work-purple?style=flat-square) 
+![Communication](https://img.shields.io/badge/Communication-orange?style=flat-square)
+ ![Proactivity](https://img.shields.io/badge/Proactivity-magenta?style=flat-square)
+![Creativity](https://img.shields.io/badge/Creativity-red?style=flat-square)
+
